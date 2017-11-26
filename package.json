@@ -1,0 +1,24 @@
+{
+  "name": "node-pidcat-plugin",
+  "version": "1.0.0",
+  "description": "a node API for pidcat tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mladenrakonjac/node-pidcat-plugin.git"
+  },
+  "keywords": [
+    "node",
+    "pidcat",
+    "android"
+  ],
+  "author": "Mladen Rakonjac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mladenrakonjac/node-pidcat-plugin/issues"
+  },
+  "homepage": "https://github.com/mladenrakonjac/node-pidcat-plugin#readme"
+}
